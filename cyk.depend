@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622475497 source:c:\users\strutul\desktop\codeblocks\facultate\lfa\cyk\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+
